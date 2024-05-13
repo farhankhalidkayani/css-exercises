@@ -1,0 +1,24 @@
+.Primary {
+  background-color: rgb(253, 151, 166);
+}
+#one {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 600;
+}
+#two {
+  font-size: 35px;
+  color: blue;
+  font-weight: bold;
+}
+#three {
+  font-size: 30px;
+}
+#four {
+  background-color: rgb(84, 243, 84);
+  font-weight: bold;
+  font-size: 25px;
+}
+#five {
+  font-size: 20px;
+}
